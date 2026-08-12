@@ -1,0 +1,17 @@
+# Бинарные файлы (скомпилированные программы)
+simulator/simulator
+simulator/simulator.exe
+logger/logger
+logger/logger.exe
+
+# Файлы данных (логи и порт)
+virtual_port.txt
+logger/raw.log
+logger/hourly.log
+logger/daily.log
+
+# Временные файлы редакторов
+*.swp
+*.swo
+*~
+.DS_Store
